@@ -19,7 +19,7 @@ import ch01.model.MemberBean;
 public class MemberHibernateDaoImpl implements MemberDao {
 
 	SessionFactory factory = HibernateUtils.getSessionFactory();
-
+// 44664
 //	@Autowired
 //	SessionFactory factory;
 
